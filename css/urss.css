@@ -1,0 +1,13 @@
+body{
+    background: #CC0001
+}
+.logo{
+    border-radius: 50%;
+}
+h2{
+    text-align: center;
+}
+.carousel {
+    display: block;
+    margin-top: 25px;
+}
